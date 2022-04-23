@@ -21,10 +21,10 @@
  The API needs to be passed with a body with all the coin details like as follows:
   ```
     {
-    "Coin":"BTH",
-    "Price":"$2,901.89",
-    "Volume":"1215983",
-    "Cap":"$24953BN"
+    "newCoin":"BTH",
+    "price":"$2,901.89",
+    "volume":"1215983",
+    "cap":"$24953BN"
     }
 ```
   **API Description**

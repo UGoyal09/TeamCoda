@@ -105,10 +105,10 @@ Command to run the test cases on the local machine is:
 npm test
 ```
 
-### Comments
+## Comments
 - The code quality is measured using SonarLint's recommendations. As its extension been installed on the VSCode while developing.
 - For testing the APIS the JEST framework is been used.
-- For the testing the APIs Postman is been used.
+- For the running the APIs Postman is been used.
 
 
 >Utkarsh Goyal
